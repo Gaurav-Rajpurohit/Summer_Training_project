@@ -1,0 +1,7 @@
+In this lecture there are some discussion on MERN.
+First, Install Nodejs Windows Installer, and after installation check whether it is installed or not for checking purpose, Go to command Prompt terminal and write "node -v".and after that I got this reply from command Prompt "v18.16.0".Then write npm -v on command prompt and I got reply "9.5.1".
+
+Now, Download the Visual Studion code from chrome.
+
+Thank you
+
