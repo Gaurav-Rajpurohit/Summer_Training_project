@@ -1,0 +1,18 @@
+Aim :- To understand what is backend and frontend?
+Frontend is the part where we decide how an application will look a like.
+Frontend has server from where two way communication is being done between server and device.
+
+What is the job of Frontend server?
+-> When a user enters his/her details while login to the application so that details send to this frontend server.
+But now the issue is this matching details of user is not done by frontend server, this role is done by backend server.
+Backend server is the brain of entire web application which helps frontend server for matching the login details.
+
+when Frontend server provides the details to backend server then backend server have to check those details and match with details that has been stored by it in a place called "Database".
+
+The code written in frontend server is with the help of "react".
+The code written in backend server is with the help of "Node + Express".
+The code written in Database is with the help of "MongoDB".
+
+The architecture will be look like:-
+User laptop<---> Frontend Server<---> Backend Server <---->Database.
+
