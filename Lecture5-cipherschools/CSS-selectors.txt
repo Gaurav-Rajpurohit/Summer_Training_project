@@ -1,0 +1,12 @@
+1.Simple selector
+ ->In simple selector there are element selector, Id selector.
+2.Combinator selector
+ ->Descendant selector
+ ->Child selector
+ ->Adjacent sibling selector
+ ->General sibling selector
+ 
+3.Pseudo class selector
+4.Pseudo element selector
+5.Attribute selector
+

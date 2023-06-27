@@ -1,0 +1,51 @@
+/* #myparagraph{
+    text-align: center;
+}
+
+.center-pargraph{
+    text-align: center;
+} */
+
+/* *{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+} */
+
+/* Descendant selector */
+
+/* div p {
+    background-color: yellow;
+
+}
+
+div >p{
+    background-color: cyan;
+} */
+
+
+/* Adjacent sibling Selector */
+/* div +p{
+    background-color: yellow;
+} */
+
+
+/* General sibling selectors */
+/* div ~p{
+    background-color: yellow;
+} */
+
+
+/* Pseudo class selectors */
+/* div ~p:hover{
+    background-color: yellow;
+} */
+
+/* Pseudo Element selectors */
+/* div ~p::first-letter{
+    background-color: red;
+} */
+
+/* Attribute selectors */
+a[target]{
+    background-color: cyan;
+}
